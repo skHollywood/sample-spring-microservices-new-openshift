@@ -1,0 +1,8 @@
+pl\piomin\services\organization\client\DepartmentClient.class
+pl\piomin\services\organization\model\Employee.class
+pl\piomin\services\organization\controller\OrganizationController.class
+pl\piomin\services\organization\model\Department.class
+pl\piomin\services\organization\OrganizationApplication.class
+pl\piomin\services\organization\client\EmployeeClient.class
+pl\piomin\services\organization\repository\OrganizationRepository.class
+pl\piomin\services\organization\model\Organization.class

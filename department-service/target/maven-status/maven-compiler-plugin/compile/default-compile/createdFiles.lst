@@ -1,0 +1,6 @@
+pl\piomin\services\department\client\EmployeeClient.class
+pl\piomin\services\department\model\Department.class
+pl\piomin\services\department\controller\DepartmentController.class
+pl\piomin\services\department\model\Employee.class
+pl\piomin\services\department\DepartmentApplication.class
+pl\piomin\services\department\repository\DepartmentRepository.class
