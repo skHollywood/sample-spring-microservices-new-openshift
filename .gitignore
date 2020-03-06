@@ -1,0 +1,8 @@
+./department-service/target/classes/application.yml
+./department-service/target/department-service-1.0-SNAPSHOT.jar
+./department-service/target/department-service-1.0-SNAPSHOT.jar.original
+./employee-service/target/employee-service-1.0-SNAPSHOT.jar
+./employee-service/target/employee-service-1.0-SNAPSHOT.jar.original
+./organization-service/target/classes/application.yml
+./organization-service/target/organization-service-1.0-SNAPSHOT.jar
+./organization-service/target/organization-service-1.0-SNAPSHOT.jar.original
